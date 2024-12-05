@@ -8,7 +8,7 @@ public class DummyController {
 
     @GetMapping("/klk")
     public String hello() {
-        return "klk";
+        return "klk2";
     }
 
 }
